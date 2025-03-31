@@ -1,0 +1,6 @@
+name: inji-wallet
+title: inji-wallet-site
+version: ~
+nav:
+- modules/ROOT/nav.adoc
+- modules/module-one/nav.adoc
