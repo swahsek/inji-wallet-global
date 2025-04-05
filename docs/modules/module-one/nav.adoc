@@ -1,6 +1,6 @@
 * xref:overview.adoc[]
 * xref:developer-setup[]
-**xref:ldocs/modules/module-one/pages/inji-wallet/inji-mobile/build-and-deployment/local-setup.md[Local Setup]
+**xref:module-one:inji-wallet/inji-mobile/build-and-deployment/local-setup.adoc[Local Setup]
 
 
 
