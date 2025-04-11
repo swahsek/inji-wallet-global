@@ -1,5 +1,5 @@
-name: inji-wallet-global-1
-title: Inji Wallet Global 1
+name: inji-wallet-global
+title: Inji Wallet Global 1.0.0
 version: ~ 1.0.0
 nav:
 - modules/ROOT/nav-1.0.0.adoc
