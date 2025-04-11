@@ -1,2 +1,1 @@
 * xref:index-1.0.0.adoc[]
-* xref:keshav.adoc[]
