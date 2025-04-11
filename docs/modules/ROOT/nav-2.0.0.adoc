@@ -1,2 +1,2 @@
-* xref:index.adoc[]
+* xref:index-2.0.0.adoc[]
 * xref:keshav.adoc[]
